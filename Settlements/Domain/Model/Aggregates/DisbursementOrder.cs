@@ -1,8 +1,8 @@
-using PC28168u202321613.Openpay.Platform.Shared.Domain.Model;
-using PC28168u202321613.Openpay.Platform.Shared.Domain.Model.ValueObjects;
-using PC28168u202321613.Openpay.Platform.Settlements.Domain.Model.ValueObjects;
+using PC28168.U202321613.Openpay.Platform.Shared.Domain.Model;
+using PC28168.U202321613.Openpay.Platform.Shared.Domain.Model.ValueObjects;
+using PC28168.U202321613.Openpay.Platform.Settlements.Domain.Model.ValueObjects;
 
-namespace PC28168U202321613.Openpay.Platform.Settlements.Domain.Model.Aggregates;
+namespace PC28168.U202321613.Openpay.Platform.Settlements.Domain.Model.Aggregates;
 
 public sealed class DisbursementOrder : IAuditableEntity
 {

@@ -1,4 +1,4 @@
-namespace PC28168u202321613.Openpay.Platform.Shared.Domain.Model.ValueObjects;
+namespace PC28168.U202321613.Openpay.Platform.Shared.Domain.Model.ValueObjects;
 
 
 public sealed record DateInterval
